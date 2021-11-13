@@ -1,5 +1,6 @@
 # train-kiosk
   ---------------Java Skills Demo 1 - CSCA---------------
+  
 A basic command-line simulation for a train ticket dispensary.
 
 This is just a draft program, which is missing a couple of things.
