@@ -9,3 +9,6 @@ basic train kiosk system.
 
 Feel free to have a look at the code and try it out yourself, or use
 it to go back and reference over.
+
+If you do use it, please try to avoid using the same names for the
+variables and objects.
