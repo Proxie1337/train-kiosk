@@ -10,7 +10,6 @@ public class TrainKioskPractice {//start TrainKioskPractice
 	//Declare global variables
 	static int availableSeats = 5;
 	static int totalTicketsPurchased = 0;
-	static double totalRevenue = 0;
 	
 	public static void main (String[] args) {//start main
 		menu();
