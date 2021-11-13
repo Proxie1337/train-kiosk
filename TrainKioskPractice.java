@@ -7,10 +7,6 @@ public class TrainKioskPractice {//start TrainKioskPractice
 	static Scanner input = new Scanner(System.in);
 	static DecimalFormat currency = new DecimalFormat("€0.00");
 	
-	//Declare global variables
-	static int availableSeats = 5;
-	static int totalTicketsPurchased = 0;
-	
 	public static void main (String[] args) {//start main
 		menu();
 	}//end main
