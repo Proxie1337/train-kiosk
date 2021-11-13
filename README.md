@@ -1,5 +1,5 @@
 # train-kiosk
-  -------------Java Skills Demo 1 - CSCA-------------
+  ----------Java Skills Demo 1 - CSCA----------
   
 A basic command-line simulation for a train ticket dispensary.
 
