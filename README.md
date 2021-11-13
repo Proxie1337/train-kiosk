@@ -10,5 +10,4 @@ basic train kiosk system. There are multiple approaches you could
 take, however, this is just the way I chose to do it for this particular
 draft piece.
 
-Feel free to have a look at the code and try it out yourself, or use
-it to go back and reference over.
+Feel free to have a look at the code and try it out yourself.
