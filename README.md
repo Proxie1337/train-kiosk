@@ -3,12 +3,11 @@
   
 A basic command-line simulation for a train ticket dispensary.
 
-This is just a draft program, which is missing a couple of features.
-However, it should show you the general gist of how to program a
-basic train kiosk system.
+This is just a draft program, which is missing a couple of features,
+however it should show you the general gist of how to program a
+basic train kiosk system. There are multiple approaches you could
+take, however, this is just the way I chose to do it for this particular
+draft piece.
 
 Feel free to have a look at the code and try it out yourself, or use
 it to go back and reference over.
-
-If you do use it, please try to avoid using the same names for the
-variables and objects so Brendan doesn't think we're plagiarising.
